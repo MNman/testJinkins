@@ -8,7 +8,7 @@
         <dict>
           <key>kind</key>
           <string>software-package</string>
-          <key>url</key>
+          <key>https://dist-pkgs-corp.liduoxing.cn/p/2c9280839126457f01912651e28a0006</key>
           <string><![CDATA[https://dist-pkgs-corp.liduoxing.cn/p/2c9280839126457f01912651e28a0006]]></string>
         </dict>
         <dict>
@@ -16,7 +16,7 @@
           <string>display-image</string>
           <key>needs-shine</key>
           <integer>0</integer>
-          <key>url</key>
+          <key>https://dist-pkgs-corp.liduoxing.cn/p/2c9280839126457f01912651e28a0006</key>
           <string><![CDATA[https://dist-pkgs-corp.liduoxing.cn/fetch/SbE1I6qR6ThZFq8jhBlN.png]]></string>
         </dict>
         <dict>
@@ -24,7 +24,7 @@
           <string>full-size-image</string>
           <key>needs-shine</key>
           <true/>
-          <key>url</key>
+          <key>https://dist-pkgs-corp.liduoxing.cn/p/2c9280839126457f01912651e28a0006</key>
           <string><![CDATA[https://dist-pkgs-corp.liduoxing.cn/fetch/SbE1I6qR6ThZFq8jhBlN.png]]></string>
         </dict>
       </array>
